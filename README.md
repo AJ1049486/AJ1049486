@@ -1,0 +1,2 @@
+- 👋 Hi, I’m BKI TDF (@AJ1049486)
+- 🌱 I’m currently learning JS
